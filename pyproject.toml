@@ -1,4 +1,4 @@
 [project]
-name = "Interview-Cheatsheet"
+name = "Website"
 authors = [{name = "Marco", email = ""}]
 dynamic = ["version", "description"]
