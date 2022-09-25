@@ -1,6 +1,17 @@
 site_name: My Site
 site_url: https://marco-christiani.github.io/
 
+plugins:
+  - mkdocs-jupyter:
+      include: ["*.py", "*.ipynb"]
+      execute: False
+      # show_input: True
+      # no_input: True # hide the Out[#] notation
+      # theme: slate
+  - blogging:
+      dirs: # The directories to be included
+        - articles
+
 theme:
   name: material
   features:
@@ -14,7 +25,6 @@ theme:
     - navigation.tracking # update link on scroll
     - toc.integrate # toc on left, not right
     - navigation.expand
-
 
   palette: 
     - scheme: slate # Palette toggle for dark mode
@@ -58,14 +68,5 @@ extra_javascript:
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css
+  - css/custom.css
 
-plugins:
-  - mkdocs-jupyter:
-      include: ["*.py", "*.ipynb"]
-      execute: False
-      show_input: True
-      no_input: True # hide the Out[#] notation
-      theme: dark
-  - blogging:
-      dirs: # The directories to be included
-        - articles

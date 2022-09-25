@@ -1,0 +1,13 @@
+/* Remove the `In` and `Out` block in rendered Jupyter notebooks */
+.md-container .jp-Cell-outputWrapper .jp-OutputPrompt.jp-OutputArea-prompt,
+.md-container .jp-Cell-inputWrapper .jp-InputPrompt.jp-InputArea-prompt {
+  display: none !important;
+}
+
+/* .jupyter-wrapper .jp-Cell.jp-CodeCell.jp-Notebook-cell .jp-Cell.jp-CodeCell.jp-Notebook-cell .jp-Cell-inputWrapper .jp-InputArea.jp-Cell-inputArea .jp-InputPrompt.jp-InputArea-prompt { */
+/*   display: none !important; */
+/* } */
+
+/* .jupyter-wrapper { */
+/*   display: none !important; */
+/* } */

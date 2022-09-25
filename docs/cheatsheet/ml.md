@@ -64,7 +64,7 @@
 -   Graphs Sensitivity vs Specificity (OR Precision)
 -   i.e. True Positive vs True Negative Rates
 
-  <img src="assets/roc.png" alt="ROC" width="200"/>
+  <img src="../assets/roc.png" alt="ROC" width="200"/>
 
 ## Accuracy
 
