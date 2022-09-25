@@ -29,8 +29,14 @@ theme:
         name: Switch to dark mode
 nav:
   - Home: index.md
-  # - "<p>LinkedIn &nbsp<i class='fa-solid fa-arrow-up-right-from-square'></i></p>": foo
-  - Topic Cheatsheet: https://marco-christiani.github.io/interview-cheatsheet/
+  - Articles: articles/index.md
+  - Topic Cheatsheet: #https://marco-christiani.github.io/interview-cheatsheet/
+    - Math/Statistics: cheatsheet/index.md
+    - Machine Learning: cheatsheet/ml.md
+    - Quant: cheatsheet/quant.md
+    - Finance: cheatsheet/fin.md
+    - Word Problems: cheatsheet/wordprobs.md
+    - Code Puzzles: cheatsheet/codepuzzles.md
     # - Neural Networks: ml/ann.md
     # - Datasets: ml/data.md
     # - Evaluation: ml/evaluation.md
