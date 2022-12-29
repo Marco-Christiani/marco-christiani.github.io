@@ -1,5 +1,6 @@
-site_name: My Site
-site_url: https://marco-christiani.github.io/
+site_name: "Datatician.io"
+# site_url: https://marco-christiani.github.io/
+site_url: https://datatician.io/
 
 plugins:
   - mkdocs-jupyter:
