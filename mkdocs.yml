@@ -41,6 +41,7 @@ theme:
 nav:
   - Home: index.md
   - Articles: articles/index.md
+  - Notes: notes/index.md
   - Topic Cheatsheet: #https://marco-christiani.github.io/interview-cheatsheet/
     - Math/Statistics: cheatsheet/index.md
     - Machine Learning: cheatsheet/ml.md
