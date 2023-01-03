@@ -1,0 +1,6 @@
+[submodule "Logseq-Hugo-Template"]
+	path = Logseq-Hugo-Template
+	url = https://github.com/CharlesChiuGit/Logseq-Hugo-Template
+[submodule "themes/Logseq-Hugo-Template"]
+	path = themes/Logseq-Hugo-Template
+	url = https://github.com/CharlesChiuGit/Logseq-Hugo-Template
