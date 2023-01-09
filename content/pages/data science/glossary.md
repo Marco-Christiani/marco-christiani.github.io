@@ -14,7 +14,7 @@ tags:: [[ds]]
 definition:: Exploratory Data Analysis refers to the process of familarization and discovery of the defining characteristics of a dataset. EDA is the first step in any data science venture and is critical in uncovering data quality concerns, empirical statistical structure, and more. Broadly, EDA involves visualizing data from several perspectives such as scatter plots between variables, box-and-whisker plots, histograms, run charts, bar charts, etc.
 
 term:: [[classification]]
-tags:: [Machine Learning]({{< ref "/pages/Machine Learning" >}}), [[Statistics]], [[data science]]
+tags:: [Machine Learning]({{< ref "/pages/Machine Learning" >}}), [[Statistics]], [data science]({{< ref "/pages/data science" >}})
 definition:: Classification describes the problem of categorizing observations. The categories assigned are often referred to as labels or classes. A model which performs classifications is called a [[classifier]]. A ubiquitous example is the labeling of emails as "spam" or "not spam" where a [[classifier]] predicts an email's class based on the contents of the email or its *metadata*.
 
 term:: GPU
@@ -29,7 +29,7 @@ validation set
 
 ANNs
 
-Artificial Neural Networks
+  + Artificial Neural Networks
 
 Deep Learning
 
@@ -58,47 +58,47 @@ Clustering
 # For Review
 **Undecided on whether to include**
 
-SVM
+  + SVM
 
-VRAM
+  + VRAM
 
-RAM
+  + RAM
 
-out-of-core algorithms
+  + out-of-core algorithms
 
-distributed computing
+  + distributed computing
 
-ordination/gradient clustering
+  + ordination/gradient clustering
 
-Empirical Evidence
+  + Empirical Evidence
 
-Can be divided into data from observation or experimentation.
+    + Can be divided into data from observation or experimentation.
 
 # Advanced (likely excluded)
 
-Embedding, Latent Embedding
+  + Embedding, Latent Embedding
 
-Backpropagation, and implications:
+  + Backpropagation, and implications:
 
-Gradient shrinkage/explosion
+  + Gradient shrinkage/explosion
 
-Derivation and unrolling RNNs
+  + Derivation and unrolling RNNs
 
-BPTT, truncated, etc 
+  + BPTT, truncated, etc 
 RL things:
 
-Exploration, Exploitation
+  + Exploration, Exploitation
 
-Boltzmann Exploration
+  + Boltzmann Exploration
 
-e-greedy
+  + e-greedy
 
-Bellman Equation
+  + Bellman Equation
 
-Value-based method
+  + Value-based method
 
-Policy-based methods
+  + Policy-based methods
 
-Policy Gradient
+  + Policy Gradient
 
-Actor-Critic Architecture
+  + Actor-Critic Architecture
