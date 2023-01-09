@@ -10,7 +10,6 @@ lastMod: 2023-01-03
 
   + ## Doughnut Chart
 
-
     + In my opinion, a far better version of a pie chart
 
     + A doughnut (or donut) chart is a pie chart with a "hole" - a blank circular area in the center. The chart is divided into parts that show the percentage each value contributes to a total.

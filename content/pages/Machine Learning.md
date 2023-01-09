@@ -10,16 +10,18 @@ area-page: ml
 title: Machine Learning
 categories:
 date: 2023-01-03
-lastMod: 2023-01-03
+lastMod: 2023-01-04
 ---
-[Clustering]({{< ref "/pages/Clustering" >}})
+# Overview
 
-[[Classification]]
+  + [Clustering]({{< ref "/pages/Clustering" >}})
 
-[[Steps to ML Project]]
+  + [[Classification]]
+
+  + [[Steps to ML Project]]
 
 # Resources
 
-[An Overview of ML](https://vas3k.com/blog/machine_learning/)
+  + [An Overview of ML](https://vas3k.com/blog/machine_learning/)
 
-[The Timeline of ML](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
+  + [The Timeline of ML](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
